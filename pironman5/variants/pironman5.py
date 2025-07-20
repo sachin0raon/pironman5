@@ -36,7 +36,7 @@ class Pironman5:
         'gpio_fan_pin': 6,
         'gpio_fan_mode': 0,
         'system': {
-            'enable_history': True,
+            'enable_history': False,
             'data_interval': 1
         }
     }
